@@ -1,0 +1,22 @@
+{
+  "name": "comparaonline",
+  "version": "1.0.0",
+  "description": "test coverages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfonso555/comparaonline-test.git"
+  },
+  "keywords": [
+    "qwerty"
+  ],
+  "author": "Alfonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfonso555/comparaonline-test/issues"
+  },
+  "homepage": "https://github.com/Alfonso555/comparaonline-test#readme"
+}
