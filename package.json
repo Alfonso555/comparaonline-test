@@ -4,19 +4,25 @@
   "description": "test coverages",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha specs/*.js",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Alfonso555/comparaonline-test.git"
   },
   "keywords": [
-    "qwerty"
+    "comparaOnline"
   ],
   "author": "Alfonso",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Alfonso555/comparaonline-test/issues"
   },
-  "homepage": "https://github.com/Alfonso555/comparaonline-test#readme"
+  "homepage": "https://github.com/Alfonso555/comparaonline-test#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "fs": "0.0.1-security",
+    "mocha": "^8.2.1"
+  }
 }
