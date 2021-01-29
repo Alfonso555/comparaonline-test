@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha specs/*.js",
-    "start": "node app.js"
+    "start": "node app.js",
+    "after-30-days": "node month.js"
   },
   "repository": {
     "type": "git",
