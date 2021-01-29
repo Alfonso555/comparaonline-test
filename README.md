@@ -4,7 +4,7 @@ test de entrevista comparaonline
 
 install dependences: 
 
-  -  npm i
+    - npm i
 
 
 
